@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.db
+.env
+.DS_Store
+static/uploads/*
+!static/uploads/.gitkeep
+
+# Antigravity agent & IDE local config
+.agents/
+AGENTS.md
+gemini-extension.json
+.gemini/
+
